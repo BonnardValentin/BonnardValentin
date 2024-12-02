@@ -1,6 +1,4 @@
-# Hi there! 👋 I'm Bonnard Valentin aka Valya 👨‍💻 ![Profile Views](https://hits.sh/github.com/BonnardValentin.svg?style=flat-square)
-
-![Cat running toward certifications](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
+# Hi there! 👋 I'm Bonnard Valentin aka Valya 👨‍💻 
 
 ### 🏡 **About Me**
 
@@ -57,6 +55,8 @@ _Status: In Progress_ 🏗️
 ### 📊 **GitHub Stats**
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BonnardValentin&show_icons=true&theme=radical)
+
+![Profile Views](https://hits.sh/github.com/BonnardValentin.svg?style=flat-square)
 
 ---
 
