@@ -19,7 +19,7 @@
 ---
 
 ### 🌍 **Languages I Speak**
-| ![English](https://img.shields.io/badge/English-Professional-blue?style=flat-square) ![French](https://img.shields.io/badge/French-Native-blue?style=flat-square) ![Russian](https://img.shields.io/badge/Russian-Native-blue?style=flat-square) |
+| ![English](https://img.shields.io/badge/English-Professional-blue?style=flat-square) ![French](https://img.shields.io/badge/French-Native-blue?style=flat-square) ![Russian](https://img.shields.io/badge/Russian-Native-blue?style=flat-square) | ![Chinese](https://img.shields.io/badge/-Chinese%20%28Beginner%20Level%29-orange?style=flat-square)
 
 ---
 
