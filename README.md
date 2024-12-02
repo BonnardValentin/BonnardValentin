@@ -2,7 +2,11 @@
 
 ![Cat running toward certifications](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
 
-I'm a **Senior Software Engineer** specializing in **backend development** with a knack for crafting **scalable, efficient systems**. Based in **France** and **Switzerland**, I work with cutting-edge technologies to deliver world-class solutions.
+### 🏡 **About Me**
+
+- Based in **France and Switzerland**, I bring a global perspective to my work.  
+- Married to a wonderful woman from Sichuan, China 🇨🇳, and proud father of two amazing kids.  
+- Passionate about **back-end engineering**, **cloud-native architectures**, and lifelong learning.
 
 ---
 
