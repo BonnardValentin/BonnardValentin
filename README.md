@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Bonnard Valentin aka Valya 👨‍💻
+# Hi there! 👋 I'm Bonnard Valentin aka Valya 👨‍💻 ![Profile Views](https://hits.sh/github.com/BonnardValentin.svg?style=flat-square)
 
 ![Cat running toward certifications](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
 
