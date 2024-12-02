@@ -1,6 +1,8 @@
 # Hi there! 👋 I'm Bonnard Valentin aka Valya 👨‍💻
 
-Welcome to my GitHub profile! I'm a **Senior Software Engineer** specializing in **backend development** with a knack for crafting **scalable, efficient systems**. Based in **France** and **Switzerland**, I work with cutting-edge technologies to deliver world-class solutions.
+![Cat running toward certifications](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
+
+I'm a **Senior Software Engineer** specializing in **backend development** with a knack for crafting **scalable, efficient systems**. Based in **France** and **Switzerland**, I work with cutting-edge technologies to deliver world-class solutions.
 
 ---
 
@@ -23,8 +25,24 @@ Welcome to my GitHub profile! I'm a **Senior Software Engineer** specializing in
 - 💼 Working as a **consultant**, helping businesses design and scale their backend systems with cloud-native architectures.
 - 🎯 Actively developing leadership skills and technical expertise, aspiring to become a **VP of Engineering** and lead cross-functional teams.
 
+---
+
+### 🎓 **Certifications (In Progress)**
+
+📜 **Leadership Principles for Engineers, Scientists, and Researchers**  
+[MIT Professional Education](https://prolearn.mit.edu/leadership-principles-engineers-scientists-and-researchers)  
+_Status: In Progress_ 🏗️  
+
+📜 **Leadership Principles**  
+[Harvard Business School Online](https://online.hbs.edu/courses/leadership-principles/)  
+_Status: In Progress_ 🏗️  
+
+📜 **Kubestronaut Certification Bundle**  
+[Linux Foundation Training](https://training.linuxfoundation.org/certification/kubestronaut-bundle/)  
+_Status: In Progress_ 🏗️  
 
 ---
+
 
 ### 📬 **Let's Connect**
 
