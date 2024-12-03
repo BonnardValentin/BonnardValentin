@@ -57,7 +57,7 @@ _Status: In Progress_ 20%_ 🏗️
 
 ### 📊 **GitHub Stats**
 
-| <a href="https://github.com/BonnardValentin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonnardValentin&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&layout=compact&custom_title=Top%20Languages" alt="Top Languages" /></a>      | ![BonnardValentin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BonnardValentin&show_icons=true&theme=transparent&bg_color=1c1917&title_color=0891b2&text_color=ffffff&icon_color=0891b2) |
+| <a href="https://github.com/BonnardValentin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonnardValentin&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&layout=compact" alt="Top Languages" /></a>  | ![BonnardValentin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BonnardValentin&show_icons=true&theme=transparent&bg_color=1c1917&title_color=0891b2&text_color=ffffff&icon_color=0891b2) |
 | :----: | :----:  |
 
 ---
