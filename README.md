@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Bonnard Valentin aka Valya 👨‍💻 
+# Hi there! 👋 I'm Bonnard Valentin aka Valya 👨‍💻  ![Profile Views](https://komarev.com/ghpvc/?username=BonnardValentin&color=blue) 
 
 ### 🏡 **About Me**
 
@@ -32,31 +32,33 @@
 
 📜 **Leadership Principles for Engineers, Scientists, and Researchers**  
 [MIT Professional Education](https://prolearn.mit.edu/leadership-principles-engineers-scientists-and-researchers)  
-_Status: In Progress_ 🏗️  
+_Status: In Progress 10%_ 🏗️  
 
 📜 **Leadership Principles**  
 [Harvard Business School Online](https://online.hbs.edu/courses/leadership-principles/)  
-_Status: In Progress_ 🏗️  
+_Status: On Standby_ 🏗️  
 
 📜 **Kubestronaut Certification Bundle**  
 [Linux Foundation Training](https://training.linuxfoundation.org/certification/kubestronaut-bundle/)  
-_Status: In Progress_ 🏗️  
+_Status: On Standby_ 🏗️  
+
+📜 **The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change**  
+_Status: In Progress_ 20%_ 🏗️  
 
 ---
 
 
 ### 📬 **Let's Connect**
 
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-Contact-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:up.north.gate@protonmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/valentin-bonnard-46b57124b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentin-bonnard-46b57124b/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:up.north.gate@protonmail.com)
 
 ---
 
 ### 📊 **GitHub Stats**
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BonnardValentin&show_icons=true&theme=radical)
-
-![Profile Views](https://hits.sh/github.com/BonnardValentin.svg?style=flat-square)
+| <a href="https://github.com/BonnardValentin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BonnardValentin&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&layout=compact&custom_title=Top%20Languages" alt="Top Languages" /></a>      | ![BonnardValentin's GitHub stats](https://github-readme-stats.vercel.app/api?username=BonnardValentin&show_icons=true&theme=transparent&bg_color=1c1917&title_color=0891b2&text_color=ffffff&icon_color=0891b2) |
+| :----: | :----:  |
 
 ---
 
