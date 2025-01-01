@@ -31,7 +31,7 @@
 
 📜 **Leadership Principles for Engineers, Scientists, and Researchers**  
 [MIT Professional Education](https://prolearn.mit.edu/leadership-principles-engineers-scientists-and-researchers)  
-_Status: In Progress 10%_ 🏗️  
+_Status: In Progress 60%_ 🏗️  
 
 📜 **Leadership Principles**  
 [Harvard Business School Online](https://online.hbs.edu/courses/leadership-principles/)  
@@ -42,7 +42,7 @@ _Status: On Standby_ 🏗️
 _Status: On Standby_ 🏗️  
 
 📜 **The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change**  
-_Status: In Progress_ 20%_ 🏗️  
+_Status: In Progress_ 80%_ 🏗️  
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
