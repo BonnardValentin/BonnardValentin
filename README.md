@@ -3,7 +3,7 @@
 ### 🏡 **About Me**
 
 - Based in **France and Switzerland**, I bring a global perspective to my work.  
-- Married to a wonderful woman from Sichuan, China 🇨🇳, and proud father of two amazing kids.  
+- Married to a wonderful woman from Sichuan, China 🇨🇳, and proud father of three amazing kids.  
 - Passionate about **back-end engineering**, **cloud-native architectures**, and lifelong learning.
 
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
